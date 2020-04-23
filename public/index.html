@@ -11,8 +11,8 @@
     <div class="nav-wrapper deep-purple">
       <a href="#" class="brand-logo ml120"><i class="material-icons">laptop</i><b>Configurator</b> PC</a>
       <ul class="right mr110 hide-on-med-and-down">
-        <li><a href="orders.html">Orders</a></li>
-        <li><a href="products.html">Products</a></li>
+        <li><a id="orders_button">Orders</a></li>
+        <li><a id="products_button">Products</a></li>
         <li><a class='dropdown-trigger' href='#' data-target='dropdown1'><i class="material-icons">shopping_cart</i></a></li>
       </ul>
     </div>
@@ -36,12 +36,73 @@
           </div>
       </div>
     </section>
-    <section id="orders"></section>
+    <section style="display: none" id="orders">
+      <table style="color: black">
+        <thead>
+        <tr>
+          <th>Name</th>
+          <th>Second name</th>
+          <th>Email</th>
+          <th>Items</th>
+          <th>Total</th>
+        </tr>
+        </thead>
+
+        <tbody id="table-body">
+        </tbody>
+      </table>
+    </section>
   </main>
   <!-- Dropdown -->
   <div id='dropdown1' class='dropdown-content fill-width'>
      <ul class="collection" id="goods_container">
      </ul>
+  </div>
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <h4>Checkout</h4>
+      <div class="row">
+        <form id="form" name="RegForm" class="col s12">
+          <div class="row">
+            <div class="input-field col s6">
+              <input placeholder="Placeholder" name="first_name" required id="first_name" type="text" class="validate">
+              <label for="first_name">First Name</label>
+            </div>
+            <div class="input-field col s6">
+              <input id="last_name" required name="last_name" type="text" class="validate">
+              <label for="last_name">Last Name</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12">
+              <input id="phone" required type="number" name="phone" class="validate">
+              <label for="phone">Phone</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12">
+              <input id="email" required type="email" name="email" class="validate">
+              <label for="email">Email</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12">
+              <input  id="promo" required type="number" name="promo" class="validate">
+              <label for="promo">Promo</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12">
+              <a href="#!" class="waves-effect waves-green btn-flat">
+                <button type="submit" id="submit">Agree</button>
+              </a>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
   </div>
 </div>
 </body>
