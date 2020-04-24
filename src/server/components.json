@@ -2,43 +2,78 @@
   "keyboards": [
     {
       "id": 1,
-      "name": "Titanum TKR101 Standard Keyboard",
+      "name": "Titanum TKR101 Standard ",
       "image": "assets/keyboard/1.png",
       "price": 500,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "description": "\nLow-profile Keys Provide a Quiet, Comfortable Typing Experience\nHotkeys Enable Easy Access for Media, My Computer, Mute"
     },
     {
       "id": 2,
       "name": "SVEN Multimedia KB-S300",
       "image": "assets/keyboard/2.png",
-      "price": 545,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 780,
+      "description": "\nSimple Wired USB Connection; Works with Windows 2000, XP, Vista, 7, 8, and 10\nBacked by One-year Amazon Basics Warranty\nShips in Certified Frustration-free Packaging"
     },
     {
       "id": 3,
       "name": "SVEN Multimedia KB-S700",
       "image": "assets/keyboard/3.png",
-      "price": 576,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 670,
+      "description": "\nLow-profile keys provide a quiet, comfortable typing experience\nHotkeys enable easy access for Media, My Computer, mute, volume down, volume Up, and calculator;"
     },
     {
       "id": 4,
       "name": "KINGSTON Multimedia KB-S700",
-      "image": "assets/keyboard/3.png",
-      "price": 576,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "image": "assets/keyboard/4.png",
+      "price": 230,
+      "description": "\nSimple wired USB connection; works with Windows 2000, XP, Vista, 7, 8, and 10\nSmooth, precise and affordable USB-connected 3-button optical mouse for the desktop PC"
+    },
+    {
+      "id": 5,
+      "name": "SVEN KB-S300",
+      "image": "assets/keyboard/5.png",
+      "price": 990,
+      "description": "\nComfortable low-profile keys and standard keyboard layout with full-size F-keys and number pad\nSleek and sturdy spill-resistant design* (*Tested under limited conditions—maximum of 60 ml liquid spillage. Do not immerse keyboard in liquid.). "
+    },
+    {
+      "id": 6,
+      "name": "Logitech Illuminated Ultrathin",
+      "image": "assets/keyboard/6.png",
+      "price": 990,
+      "description": "\nWindows 8, Windows 7, Windows XP or Windows Vista, USB port\nLaser-etched backlit keys, Manual brightness adjustment\nElegantly designed, Ultra-thin keyboard profile\nLogitech PerfectStroke key system, Soft-touch palm rest"
+    },
+    {
+      "id": 7,
+      "name": "Microsoft Sculpt (5KV-00001 )",
+      "image": "assets/keyboard/7.png",
+      "price": 730,
+      "description": "\nSplit Keyset Design Helps To Position Wrists And Forearms In A Natural, Relaxed Position\nCushioned Palm Rest Provides Support And Promotes A Neutral Wrist Position\nDomed Keyboard Design Positions Wrists At A Natural, Relaxed Angle"
+    },
+    {
+      "id": 8,
+      "name": "HP USB Slim Business Keyboard",
+      "image": "assets/keyboard/8.png",
+      "price": 110,
+      "description": "\nThe HP USB Slim Business Keyboard is compatible with HP EliteDesk 705 G2 MT, HP EliteDesk 705 G2 SFF, HP EliteOne 705 G2 AIO and HP EliteDesk 705 G2 DM (Mini)."
+    },
+    {
+      "id": 9,
+      "name": "Tecware Phantom 87 Key Mechanical Keyboard",
+      "image": "assets/keyboard/9.png",
+      "price": 180,
+      "description": "\nRGB BACKLIGHTING - Enhance your gaming experience with 20 preset configurations on mechanical keyboard or create a unique one to match your own system. ."
     }
   ],
   "monitors": [
     {
       "id": 1,
       "name": "PHILIPS LED 203V5LSB26",
-      "frequency": "60 Гц",
+      "frequency": "75 Гц",
       "diagonal": "19.5\"",
       "resolution": "1600 x 900",
       "image": "assets/monitor/1.png",
-      "price": 500,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 207,
+      "description": "\nGREAT FOR HOME AND OFFICE: An ideal all-around display for desktop, or laptop\nSEE THE DIFFERENCE: Razor-sharp clarity and detail with Full HD (1920x1080p) resolution "
     },
     {
       "id": 2,
@@ -47,8 +82,8 @@
       "diagonal": "21.5\"",
       "resolution": "1920x1080",
       "image": "assets/monitor/2.png",
-      "price": 500,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 350,
+      "description": "\nENHANCED VIEWING COMFORT: Flicker-Free technology and Blue Light Filter for all-day comfort\nFLEXIBLE CONNECTIVITY: The VA2246MH-LED supports laptops, PCs, Macs, and POS systems with HDMI, and VGA inputs"
     },
     {
       "id": 3,
@@ -57,8 +92,68 @@
       "diagonal": "21.5\"",
       "resolution": "1920x1080",
       "image": "assets/monitor/3.png",
-      "price": 500,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 250,
+      "description": "\nINDUSTRY-LEADING WARRANTY: 3-year coverage with access to our US-based customer service team\nINCLUDED IN THE BOX: LED Monitor, Power Cable, VGA Cable, and Audio Cable"
+    },
+    {
+      "id": 4,
+      "name": "Sceptre E205W-16003R",
+      "frequency": "75 Гц",
+      "diagonal": "20\"",
+      "resolution": "1600x900",
+      "image": "assets/monitor/4.png",
+      "price": 200,
+      "description": "\n20\" Led HD+ monitor high resolution 1600 x 900\n2 x HDMI Ports & 1 VGA Port\nFast Response Time Playing fast action games and watching action adventure movies always require fast and accurate pixel response from an LED. "
+    },
+    {
+      "id": 5,
+      "name": "Acer R240HY",
+      "frequency": "60 Гц",
+      "diagonal": "23.8\"",
+      "resolution": "1920 x 1080",
+      "image": "assets/monitor/5.png",
+      "price": 370,
+      "description": "\n23. 8\" Full HD IPS widescreen with 1920 x 1080 resolution\nResponse time: 4ms, refresh rate: 60Hz, Pixel Pitch: 0. 2745mm. 178 degree wide viewing angle, display colors: 16. 7M\nThe Zero Frame design provides maximum visibility of the screen from edge to edge. "
+    },
+    {
+      "id": 6,
+      "name": "Sceptre 24\" Curved ",
+      "frequency": "75 Гц",
+      "diagonal": "23.8\"",
+      "resolution": "1920 x 1080",
+      "image": "assets/monitor/6.png",
+      "price": 370,
+      "description": "\n800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience\nHdmi, VGA & PC audio in ports. "
+    },
+    {
+      "id": 7,
+      "name": "Samsung 34-Inch CJ791(LC34J791WTNXZA)",
+      "frequency": "100 Гц",
+      "diagonal": "23.8\"",
+      "resolution": "3440 x 1440",
+      "image": "assets/monitor/7.png",
+      "price": 560,
+      "description": "\nCURVED GAMING MONITOR with 100Hz refresh rate, AMD FreeSync and multiple game modes\nADVANCED QUANTUM DOT COLOR and VA panel supports up to 125% sRGB color space and darker blacks. "
+    },
+    {
+      "id": 8,
+      "name": "HP VH240a",
+      "frequency": "100 Гц",
+      "diagonal": "23.8\"",
+      "resolution": "3440 x 1440",
+      "image": "assets/monitor/8.png",
+      "price": 710,
+      "description": "\nRESPONSE TIME — 5ms with overdrive for a smooth picture that looks crisp and fluid without motion blur\nBUILT-IN SPEAKERS — Integrated audio speakers provide great sound for your content (2 watts per channel). "
+    },
+    {
+      "id": 9,
+      "name": "ASUS VA24EHE",
+      "frequency": "98 Гц",
+      "diagonal": "23.8\"",
+      "resolution": "1920x1080",
+      "image": "assets/monitor/9.png",
+      "price": 470,
+      "description": "\nAsus Eye Care technology features flicker-free and blue light filter technologies to minimize eye fatigue\nConnectivity featuring HDMI, D-Sub, and DVI-D ports as well as VESA mount. "
     }
   ],
   "motherboards": [
@@ -70,30 +165,96 @@
       "memoryType": "ddr4",
       "memorySlots": 2,
       "image": "assets/motherboard/1.png",
-      "price": 500,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 140,
+      "description": "\nSupport AMD Ryzen 1st and 2nd Generation / Ryzen with Radeon Vega Graphics Processors for Socket AM4\nSupports 32GB Dual."
     },
     {
       "id": 2,
-      "name": "Biostar A68MDE",
+      "name": "MSI Performance Gaming AMD Ryzen 1st",
       "format": "mATX",
-      "socket": "FM2",
+      "socket": "FM2+",
       "memoryType": "ddr3",
       "memorySlots": 2,
       "image": "assets/motherboard/2.png",
-      "price": 500,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 230,
+      "description": "\nVR Ready: Automatically optimizes your system for VR usage, pushing for maximum performance\nIn-Game Weapons: Game Boost, GAMING Hotkey, X-Boost."
     },
     {
       "id": 3,
-      "name": "Biostar A68M",
+      "name": "ASUS Prime Z390-A (Intel 8th and 9th Gen)",
       "format": "mATX",
-      "socket": "FM2",
+      "socket": "FM2+",
       "memoryType": "ddr3",
       "memorySlots": 2,
       "image": "assets/motherboard/3.png",
-      "price": 500,
-      "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
+      "price": 120,
+      "description": "\nDesigned for 9th and 8th generation Intel Core processors to maximize connectivity and speed with M.2, USB 3.1 Gen2 and ASUS Optimum II for better DRAM overclocking stability."
+    },
+    {
+      "id": 4,
+      "name": "Gigabyte Z390 AORUS ULTRA",
+      "format": "mATX",
+      "socket": "LGA 1151",
+      "memoryType": "ddr4",
+      "memorySlots": 4,
+      "image": "assets/motherboard/4.png",
+      "price": 600,
+      "description": "\nSupports 9th and 8th Intel Core processors\nDual Channel Non ECC Unbuffered DDR4, 4 DIMMs\nIntel Optane Memory Ready\n12+1 Phases digital VRM solution with DrMOS"
+    },
+    {
+      "id": 5,
+      "name": "Biostar A00M",
+      "format": "ATX",
+      "socket": "FM2",
+      "memoryType": "ddr3",
+      "memorySlots": 4,
+      "image": "assets/motherboard/5.png",
+      "price": 150,
+      "description": "\nSupports 9th and 8th Intel Core processors\nDual Channel Non ECC Unbuffered DDR4, 4 DIMMs\nIntel Optane Memory Ready\n12+1 Phases digital VRM solution with DrMOS"
+    },
+    {
+      "id": 6,
+      "name": "Gigabyte GA-A320M-S2H",
+      "format": "ATX",
+      "socket": "AM4",
+      "memoryType": "ddr4",
+      "memorySlots": 2,
+      "image": "assets/motherboard/6.png",
+      "price": 110,
+      "description": "\nSupports AMD Ryzen & 7th Generation A series/Athlon Processors\nDual Channel Non ECC Unbuffered DDR4, 2 DIMMs\nUltra-Fast PCIe Gen3 x4 M.2 with PCIe NVMe & SATA mode support"
+    },
+    {
+      "id": 7,
+      "name": "MSI MPG Z390 Gaming Plus LGA1151",
+      "format": "ATX",
+      "socket": "FM2",
+      "memoryType": "ddr4",
+      "memorySlots": 4,
+      "image": "assets/motherboard/7.png",
+      "price": 150,
+      "description": "\nSupports 9th i9-9900K, i7-9700K, i5-9600K and 8th Generation Intel Core / Pentium Gold / Celeron processors for LGA 1151 socket\nSupports dual channel DDR4 Memory, up to 4400(OC) MHz"
+    },
+    {
+      "id": 8,
+      "name": "MSI Arsenal Gaming AMD Ryzen",
+      "format": "mATX",
+      "socket": "AM4",
+      "memoryType": "ddr3",
+      "memorySlots": 2,
+      "image": "assets/motherboard/8.png",
+      "price": 900,
+      "description": "\nSupports 2 Way AMD Crossfire Technology\nIn Game Weapons: Game Boost, GAMING Hotkey, X Boost; EZ Debug LED: Easiest way to troubleshoot."
+    },
+    {
+      "id": 9,
+      "name": "Asus TUF B450M-Plus Gaming AMD Ryzen 2",
+      "format": "mATX",
+      "socket": "AM4",
+      "memoryType": "ddr3",
+      "memorySlots": 4,
+      "image": "assets/motherboard/9.png",
+      "price": 220,
+      "description": "\nUnmatched personalization with asus exclusive aura sync RGB lighting and additional RGB header\n3 year warranty for guaranteed reliability built on military grade engineering"
     }
   ],
   "mouses": [
@@ -146,7 +307,7 @@
       "id": 3,
       "name": "AMD Athlon R4 500 ",
       "frequency": "3.0 GHz",
-      "socket": "FM2+",
+      "socket": "LGA 1151",
       "power": "65w",
       "core": 4,
       "image": "assets/processor/3.png",
@@ -252,5 +413,6 @@
       "price": 505,
       "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
     }
-  ]
+  ],
+  "description": "\nFAVPNG.com\nCat Play And Toys Amazon.com Mouse, PNG, 512x512px, Cat, Amazon "
 }
